@@ -1,4 +1,4 @@
-# Tugas Praktikum Struktur Data XX
+# Tugas Praktikum XX
 
 > Materi: 
 > Pengajar:
